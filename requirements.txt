@@ -1,0 +1,7 @@
+django==5.0
+djangorestframework
+django-filter
+mock
+Pillow
+mysqlclient
+python-dotenv
